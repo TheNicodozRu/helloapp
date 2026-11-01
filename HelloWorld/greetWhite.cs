@@ -6,7 +6,7 @@ namespace maine1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("hello white");
+            Console.WriteLine("hello white and black too!");
         }
     }
 }
