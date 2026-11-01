@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-black\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-white\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-black\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-white\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-black\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-white\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-black\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-white\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Лев\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-black\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Лев\\Desktop\\ботаю git\\git-takes-two\\helloapp-white\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Лев\\AppData\\Roaming\\NuGet\\NuGet.Config"
